@@ -1,0 +1,11 @@
+C:\Users\saurav.srivastava\Desktop\DockerConsole\bin\Debug\netcoreapp2.2\DockerConsole.deps.json
+C:\Users\saurav.srivastava\Desktop\DockerConsole\bin\Debug\netcoreapp2.2\DockerConsole.runtimeconfig.json
+C:\Users\saurav.srivastava\Desktop\DockerConsole\bin\Debug\netcoreapp2.2\DockerConsole.runtimeconfig.dev.json
+C:\Users\saurav.srivastava\Desktop\DockerConsole\bin\Debug\netcoreapp2.2\DockerConsole.dll
+C:\Users\saurav.srivastava\Desktop\DockerConsole\bin\Debug\netcoreapp2.2\DockerConsole.pdb
+C:\Users\saurav.srivastava\Desktop\DockerConsole\obj\Debug\netcoreapp2.2\DockerConsole.csproj.CoreCompileInputs.cache
+C:\Users\saurav.srivastava\Desktop\DockerConsole\obj\Debug\netcoreapp2.2\DockerConsole.AssemblyInfoInputs.cache
+C:\Users\saurav.srivastava\Desktop\DockerConsole\obj\Debug\netcoreapp2.2\DockerConsole.AssemblyInfo.cs
+C:\Users\saurav.srivastava\Desktop\DockerConsole\obj\Debug\netcoreapp2.2\DockerConsole.dll
+C:\Users\saurav.srivastava\Desktop\DockerConsole\obj\Debug\netcoreapp2.2\DockerConsole.pdb
+C:\Users\saurav.srivastava\Desktop\DockerConsole\obj\Debug\netcoreapp2.2\DockerConsole.csprojAssemblyReference.cache

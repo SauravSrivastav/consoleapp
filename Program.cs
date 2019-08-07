@@ -2,11 +2,11 @@
 
 namespace DockerConsole
 {
-    class Program
+    class 
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("This is my first Dockerized Console Application");
             Console.ReadLine( );
         }
     }

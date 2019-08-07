@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\saurav.srivastava\\Desktop\\DockerConsole\\DockerConsole.csproj": {}
+    "C:\\Users\\saurav.srivastava\\Desktop\\DockerConsole\\DockerConsole.csproj": {}
   },
   "projects": {
-    "c:\\Users\\saurav.srivastava\\Desktop\\DockerConsole\\DockerConsole.csproj": {
+    "C:\\Users\\saurav.srivastava\\Desktop\\DockerConsole\\DockerConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\saurav.srivastava\\Desktop\\DockerConsole\\DockerConsole.csproj",
+        "projectUniqueName": "C:\\Users\\saurav.srivastava\\Desktop\\DockerConsole\\DockerConsole.csproj",
         "projectName": "DockerConsole",
-        "projectPath": "c:\\Users\\saurav.srivastava\\Desktop\\DockerConsole\\DockerConsole.csproj",
+        "projectPath": "C:\\Users\\saurav.srivastava\\Desktop\\DockerConsole\\DockerConsole.csproj",
         "packagesPath": "C:\\Users\\saurav.srivastava\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\saurav.srivastava\\Desktop\\DockerConsole\\obj\\",
+        "outputPath": "C:\\Users\\saurav.srivastava\\Desktop\\DockerConsole\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
